@@ -2,8 +2,7 @@
 title: Plus Equal
 email: plusequal@fsto.co
 description: > # this means to ignore newlines until "baseurl:"
-  Plus Equal is a Full Stack Toronto program dedicated to providing advanced developers
-  with practical workshops on advanced web technologies.
+  Plus Equal Workshops are professional development for developers working with advanced technologies. Register today for our next workshop!
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://plusequaltech.com" # the base hostname & protocol for your site
 twitter_username: plusequaltech
