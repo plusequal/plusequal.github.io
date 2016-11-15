@@ -12,7 +12,7 @@
 								<li><a href="/es-next">ES Next</a></li>
 							</ul>
 						</li>
-						<li><a href="#workshops" class="button scrolly special">Register</a></li>
+						{% if page.reg %}<li><a href="{{ page.reg }}" class="button scrolly special">Register</a></li>{% endif %}
 					</ul>
 				</nav>
 			</header>
